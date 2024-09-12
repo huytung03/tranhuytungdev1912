@@ -1,0 +1,23 @@
+===> Table : tao cau truc bang
+-border , wwidth , align , cellpadding , cellspacing
++ theard : vung tieu de bang
+tr : dong/ 
+hang
+th : cot /o/
+++ colspan : gop o theo cot
+++ rowspan : gop o theo hang
+++ body : vung noi dung bang
+tr :
+ th / td 
+ + tfoot : vufng cuoi bang ( thong ke )
+
+ ====> form :
+ - imput : ++ id , name ,value
+ ++ type : text , password ,email ,tel, number , radio , check box ,file ,
+ image , button ,date , time , search , color,range
+
+ -select: 
+ ++ id , name ,
+ element : option / optgroup
+   
+ -textarea : 
